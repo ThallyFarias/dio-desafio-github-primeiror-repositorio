@@ -1,0 +1,29 @@
+🛠 Git e GitHub na Prática
+O Git e o GitHub revolucionaram a forma como desenvolvedores versionam, compartilham e colaboram em projetos. Mas como tudo isso funciona na prática?
+
+🔄 Git: Controle de Versão Local
+Git é um sistema de controle de versão distribuído. Isso significa que ele permite acompanhar todas as modificações feitas em arquivos ao longo do tempo. Comandos básicos como:
+- git init: inicia um repositório local
+- git add: adiciona arquivos à área de preparo (stage)
+- git commit: salva um ponto no histórico do projeto
+- git log: visualiza os commits realizados
+- git branch: cria e gerencia ramificações (branches)
+Essas ações são todas feitas no seu computador, permitindo total controle do seu código, mesmo offline.
+
+☁️ GitHub: A Nuvem da Colaboração
+GitHub é uma plataforma online que hospeda seus repositórios Git. Ele facilita a colaboração, revisão de código e integração com outras ferramentas.
+Funcionalidades que se destacam:
+- Push e Pull: envie (push) ou baixe (pull) alterações entre seu repositório local e o GitHub
+- Fork e Pull Request (PR): contribua para outros projetos sem bagunçar o original
+- Issues e Discussions: acompanhe bugs, dúvidas e melhorias
+- Actions: automatize tarefas (como testes ou deploy)
+
+🚧 Aplicando na Prática
+Trabalhar com Git e GitHub na prática envolve:
+- Criar um repositório local
+- Fazer commits frequentes com mensagens claras
+- Conectar ao GitHub para versionamento remoto
+- Criar branches para testar funcionalidades
+- Revisar, discutir e integrar mudanças com Pull Requests
+- Aprender com erros e resolver conflitos de merge
+A prática constante com pequenos projetos — como este — é a melhor forma de dominar esses conceitos!
